@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EventsAndDelegates/.vs/EventsAndDelegates
+/EventsAndDelegates/EventsAndDelegates/obj/Debug
+/EventsAndDelegates/EventsAndDelegates/bin/Debug
